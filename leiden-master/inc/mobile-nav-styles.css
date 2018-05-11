@@ -1,0 +1,15 @@
+.nav-secondary {
+    display: none !important;
+}
+
+#menu-mobile-nav {
+    display: none !important;
+}
+
+ul#menu-mobile-nav {
+    display: none !important;
+}
+
+nav.nav-secondary {
+    display: none !important;
+}
