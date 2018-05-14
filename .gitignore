@@ -1,0 +1,18 @@
+# .gitignore
+leiden-master/css/tutorial-css-variables.css
+leiden-master/css/projects.css
+leiden-master/images
+leiden-master/inc
+leiden-master/js
+leiden-master/page-templates
+advanced-custom-fields-pro.zip
+behance portfolio screenshot.png
+genesis-theme-20180509-151251.json
+genesis/
+index.php
+leiden-master/wrong-archive-luna_portfolio.php
+lunalunapiena-wordpressdeveloper.wordpress.2018-05-09.xml
+plugins-and-themes-in-admin-bar.zip
+twentyfifteen/
+twentyseventeen/
+twentysixteen/
